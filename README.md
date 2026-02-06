@@ -14,6 +14,17 @@ I am a focused learner with a strong interest in **technology, electronics, and 
   - 📐 Learning circuit simulation using **Proteus**
 - 🏃‍♂️ A dedicated **sportsman**, highly focused and disciplined
 
+
+## 🌟 Inspirations
+
+I draw inspiration from values, wisdom, and real-life strength.
+
+- 📖 **Bhagavad Gita** – for life philosophy, discipline, and clarity  
+- 🧠 **Acharya Prashant** – for deep thinking and self-awareness  
+- 🙏 **My Baba Ji** – for guidance, values, and spiritual strength  
+- 👨‍👦 **My Bhaiya** – for motivation, support, and direction  
+- 🌱 **Sonam Wangchuk** – for innovation, simplicity, and problem-solving mindset
+- 
 I have faced many failures in my journey, but I have learned a lot from them.  
 I can handle **pressure situations very well** and stay calm when it matters most.  
 Currently, I am also working on improving my **communication skills**.

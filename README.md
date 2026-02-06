@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=Namaste%2C%20Mai%20Vishesh%20Mishra&fontAlignY=40&fontSize=45&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=🙏%20Vishesh%20Mishra&fontAlignY=40&fontSize=48&fontColor=ffffff" />
 </p>
 
 ## 👋 About Me
